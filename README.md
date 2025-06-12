@@ -10,13 +10,11 @@
 
 <div align="center">
  
-📚 I graduated from the **Faculty of Information Technology at KMITL**
+📚 I graduated from the **Bachelor of Science Program in Information Technology at KMITL - Software Engineer**
 
 💡 Currently employed as **Backend Developer** using **NestJS + TypeORM/Mongoose + MySQL/PostgreSQL/MongoDB**
 
-🌱 Looking forward to learn **Next.js, Golang, DevOps**
-
-⚡ Fun fact **Feelings are just visitors, let them come and go**
+🧠 Looking forward to learn **Next.js, Golang, DevOps**
 
 📲 Contact
 
