@@ -40,7 +40,7 @@
 <br>
 
 <div align='center'>  
-    <img src="https://komarev.com/ghpvc/?username=thampaponn&color=pink&style=flat"> 
+    <img src="https://komarev.com/ghpvc/?username=thampaponn&color=cyan&style=flat"> 
 </div>
 
 <hr/>
