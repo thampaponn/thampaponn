@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Wiwat+Liangkokbkit;+👻+XVIIIVIN+👻"; />
 </h1> -->
 
-<h3 align="center">🌍  I'm based in Bangkok, Thailand</h3>
+<h3 align="center">Hi, I'm Thampapon Prathum a.k.a Tun (ทัน)  I'm based in Bangkok, Thailand</h3>
 
 <br/>
 
